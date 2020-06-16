@@ -1,6 +1,7 @@
 package go_koans
 
 func aboutBasics() {
+	const __bool__ = true
 	assert(__bool__ == true)  // what is truth?
 	assert(__bool__ != false) // in it there is nothing false
 
